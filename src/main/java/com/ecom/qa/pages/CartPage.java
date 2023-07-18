@@ -10,7 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 import com.ecom.qa.abstractcomponents.AbstarctComponents;
 
 public class CartPage extends AbstarctComponents {
-	
+	//Cart Program
 	WebDriver driver;
 	
 	public CartPage(WebDriver driver)
